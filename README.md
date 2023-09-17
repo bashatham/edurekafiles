@@ -1,2 +1,2 @@
 # edurekafiles
-All the projects made during my Pg Diploma course are here.
+All the projects made during my PG Diploma in Machine Learning and Artificial Intelligence course are here.
